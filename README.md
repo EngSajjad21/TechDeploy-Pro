@@ -163,9 +163,3 @@ See the [LICENSE](LICENSE) file for full details.
 </div>
 
 ---
-
-<div align="center">
-  Made with ❤️ for Engineers &nbsp;|&nbsp;
-  <a href="https://github.com/YOUR_USERNAME/TechDeploy-Pro/issues">Report Bug</a> &nbsp;|&nbsp;
-  <a href="https://github.com/YOUR_USERNAME/TechDeploy-Pro/issues">Request Feature</a>
-</div>
