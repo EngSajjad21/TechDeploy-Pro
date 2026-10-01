@@ -67,7 +67,7 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/TechDeploy-Pro.git
+git clone https://github.com/EngSajjad21/TechDeploy-Pro.git
 cd TechDeploy-Pro
 
 # 2. Install dependencies
